@@ -56,10 +56,18 @@ Aquest projecte promociona un increment en l'ús del transport públic, generant
 
 ## 📸 Captures i/o demo del projecte
 
-**GRÀFIC DE PREDICCIÓ D'OCUPACIÓ SETMANAL**
+**DADES REALS DIA 02/01**
+![reaL_dia_02_01](https://github.com/user-attachments/assets/cadda777-db46-448a-9c80-ff5adaf45b01)
+
+**DADES PREDICCIÓ DIA 02/01**
+![prediccio_dia_02_01](https://github.com/user-attachments/assets/d1abfa38-9e55-4fe2-b10c-91afb4d95ba0)
+
+**DEMO PROCESSAMENT DADES I PREDICCIÓ**
+https://drive.google.com/file/d/13GtCeKEG0ypktVmkY0Uh8NFYafH7ZK32/view?usp=sharing
 
 **DEMO APLICACIÓ WEB**
 https://drive.google.com/file/d/1lW_bBHZS4_TSvfdRy1GmdJC5fVc_q_Wx/view?usp=drive_link
+
 
 ## 🙌 Agraïments i conclusió
 
